@@ -1,8 +1,6 @@
 # Data Science Bootcamp Projects
 **Data science bootcamp**
 
-## Spreadsheets
-
 ## SQL Database
   - [Restaurant_Owner.sql](SQL/Restaurant_Owner.sql) - A small database of a pizza restaurant with query examples to analyze data.
 
